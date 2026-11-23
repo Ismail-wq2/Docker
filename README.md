@@ -2,7 +2,7 @@
 
 ## Ejercicio 1
 ![CAP1](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio1_Docker/Imagen%20pegada.png)
-![CAP1](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio1_Docker/Imagen%20pegada(2).png)
+![CAP2](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio1_Docker/Imagen%20pegada%20(2).png)
 ---
 
 ## Ejercicio 2
