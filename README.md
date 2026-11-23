@@ -1,7 +1,7 @@
 # Docker I
 
 ## Ejercicio 1
-![CAP1](ruta/de/la/imagen.png)
+![CAP1]([ruta/de/la/imagen.png](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio1_Docker/Imagen%20pegada.png))
 ---
 
 ## Ejercicio 2
