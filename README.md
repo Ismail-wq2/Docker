@@ -83,22 +83,17 @@
 ## Ejercicio 6
 ### Crea un directorio llamado mysql_data.
 ### Vuelve a crear el contenedor mysql con los mismos parámetros anteriores pero indicando que la carpeta del contenedor /var/lib/mysql se guardará en el directorio recién creado (mysql_data).
-### Crea de nuevo la bbdd pruebas dentro del Mysql del contenedor.
-### Sal y elimina el contenedor.
-### Crea de nuevo el contenedor sin mapear ninguna carpeta (sin utilizar volúmenes) y comprueba que la bbdd prueba no existe.
-### Vuelve a salir y eliminar el contendor.
-### Crea de nuevo el contenedor pero mapeando la carpeta igual que antes (la carpeta /var/lib/mysql del contenedor se guardará en mysql_data).
-### Comprueba que la bbdd sigue estando en Mysql.
+![CAP29](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio6_Docker/Imagen%20pegada.png)
+![CAP30](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio6_Docker/Imagen%20pegada%20(2).png)
+![CAP31](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio6_Docker/Imagen%20pegada%20(3).png)
+
 
 ---
 
 ## Ejercicio 7
 ### Crea un directorio llamado php_data.
-### Crea un archivo llamado index.php en el directorio recién creado con el siguiente contenido:
-´´´ javascript
-<?php
-phpinfo();
-´´´
+### Crea un archivo llamado index.php en el directorio recién creado con el siguiente contenido: <?php phpinfo();
+
 ### Arranca un contenedor con la imagen php:8.0-apache y nombre php_smr indicando que la carpeta del contenedor /var/www/html se guardará en la carpeta creada en el primer punto. Además, el puerto 80 del contenedor se mapeará al puerto 8085 de la máquina real.
 ### Abre un navegador accede a http://ip_maquina_virtual:8085 y comprueba que se muestra una página similar a ésta:
 
