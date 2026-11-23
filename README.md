@@ -25,9 +25,9 @@
 ### Vuelve a listar los contenedores con la opción ls -a ¿Por qué ahora sí que se muestra el contenedor de la imagen hello-seattle? ¿Para qué sirve la opción -a?
 ![CAP11](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio2_Docker/Imagen%20pegada%20(12).png)
 ### Elimina el contenedor que usa hello-seattle y la imagen.
-![CAP12](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio2_Docker/Imagen%20pegada%20(10).png)
+![CAP12](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio2_Docker/Imagen%20pegada%20(13).png)
 ### Vuelve a listar las imágenes y comprueba que se ha borrado correctamente.
-![CAP13](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio2_Docker/Imagen%20pegada%20(11).png)
+![CAP13](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio2_Docker/Imagen%20pegada%20(14).png)
 
 
 ---
