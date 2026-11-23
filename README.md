@@ -34,10 +34,20 @@
 
 ## Ejercicio 3
 ### Crea una imagen derivada de la imagen hello-world descargada en el ejercicio anterior con docker image tag llamada smr/hola-mundo.
+![CAP14](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio3_Docker/Imagen%20pegada%20.png)
+
 ### Borra la imagen original (hello-world).
+![CAP15](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio3_Docker/Imagen%20pegada%20(2).png)
+
 ### Guarda la nueva imagen creada en el fichero smr-hola-mundo.tar
+![CAP16](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio3_Docker/Imagen%20pegada%20(3).png)
+
 ### Borra la imagen docker smr/hola-mundo y comprueba que no tienes ninguna imagen.
+![CAP17](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio3_Docker/Imagen%20pegada%20(4).png)
+
 ### Añade la imagen smr/hola-mundo mediante docker image load usando el archivo .tar creado anteriormente.
+![CAP18](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio3_Docker/Imagen%20pegada%20(5).png)
+
 
 ---
 
