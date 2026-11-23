@@ -1,7 +1,7 @@
 # Docker I
 
 ## Ejercicio 1
-![CAP1]([drive-download-20261123T135658Z-1-001/Ejercicio1_Docker/Imagen pegada.png])
+![CAP1](drive-download-20261123T135658Z-1-001/Ejercicio1_Docker/Imagen pegada.png)
 ---
 
 ## Ejercicio 2
