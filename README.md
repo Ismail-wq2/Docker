@@ -54,12 +54,16 @@
 
 ## Ejercicio 4
 ### Descarga la imagen oficial de mysql.
+![CAP20](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio4_Docker/Imagen%20pegada.png)
+
 ### Con la imagen que te has descargado, crea un contenedor con nombre mysql_smr y smr como password del usuario root.
-### Ejecuta desde la terminal la orden:
-### docker container exec -it mysql_smr mysql -u root -p
-### Comprueba que puedes conectarte al Mysql del contenedor.
+![CAP21](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio4_Docker/Imagen%20pegada%20(2).png)
+
+### Ejecuta desde la terminal la orden: docker container exec -it mysql_smr mysql -u root -p
+![CAP22](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio4_Docker/Imagen%20pegada%20(3).png)
 ### Ejecuta la siguiente orden dentro de Mysql para crear una nueva base de datos: CREATE DATABASE prueba;
 ### Comprueba que se ha creado la bbdd con la orden: show databases;
+![CAP23](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio4_Docker/Imagen%20pegada%20(4).png)
 
 ---
 
