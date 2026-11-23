@@ -71,9 +71,12 @@
 ### Para el contenedor mysql_smr y vuelve a iniciarlo.
 ### Para salir de mysql y del contenedor ejecuta la orden exit
 ### Conéctate de nuevo a Mysql y comprueba que la bbdd prueba sigue estando.
-### Elimina el contenedor mysql_smr.
-### Vuelve a crearlo con los mismos parámetros y comprueba que la bbdd prueba no existe.
-### Sal del contenedor y elimínalo.
+![CAP24](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio5_Docker/Imagen%20pegada.png)
+![CAP25](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio5_Docker/Imagen%20pegada%20(2).png)
+![CAP26](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio5_Docker/Imagen%20pegada%20(3).png)
+![CAP27](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio5_Docker/Imagen%20pegada%20(4).png)
+![CAP28](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio5_Docker/Imagen%20pegada%20(5).png)
+
 
 ---
 
