@@ -1,10 +1,7 @@
 # Docker I
 
 ## Ejercicio 1
-### Crea una máquina virtual con Alpine llamada “Alpine base”.
-### Instala Docker en la máquina virtual.
-### Comprueba que todo se ha instalado correctamente.
-
+![CAP1](ruta/de/la/imagen.png)
 ---
 
 ## Ejercicio 2
