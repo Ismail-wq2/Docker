@@ -93,8 +93,8 @@
 ## Ejercicio 7
 ### Crea un directorio llamado php_data.
 ### Crea un archivo llamado index.php en el directorio recién creado con el siguiente contenido: <?php phpinfo();
-![CAP32](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio7_Docker/Imagen%20pegada.png)
 ### Arranca un contenedor con la imagen php:8.0-apache y nombre php_smr indicando que la carpeta del contenedor /var/www/html se guardará en la carpeta creada en el primer punto. Además, el puerto 80 del contenedor se mapeará al puerto 8085 de la máquina real.
+![CAP32](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio7_Docker/Imagen%20pegada.png)
 ### Abre un navegador accede a http://ip_maquina_virtual:8085 y comprueba que se muestra una página similar a ésta:
 ![CAP33](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio7_Docker/Imagen%20pegada%20(2).png)
 ### Reinicia la máquina virtual.Comprueba que accediendo a la anterior url se produce un error.
