@@ -58,11 +58,8 @@
 ### Ejecuta desde la terminal la orden:
 ### docker container exec -it mysql_smr mysql -u root -p
 ### Comprueba que puedes conectarte al Mysql del contenedor.
-### Ejecuta la siguiente orden dentro de Mysql para crear una nueva base de datos:
-### CREATE DATABASE prueba;
-### No te olvides del ; final
-### Comprueba que se ha creado la bbdd con la orden:
-### show databases;
+### Ejecuta la siguiente orden dentro de Mysql para crear una nueva base de datos: CREATE DATABASE prueba;
+### Comprueba que se ha creado la bbdd con la orden: show databases;
 
 ---
 
