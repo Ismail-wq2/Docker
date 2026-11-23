@@ -67,7 +67,7 @@
 ## Ejercicio 7
 ### Crea un directorio llamado php_data.
 ### Crea un archivo llamado index.php en el directorio recién creado con el siguiente contenido:
-´´´ php
+´´´ javascript
 <?php
 phpinfo();
 ´´´
