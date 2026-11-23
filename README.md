@@ -7,7 +7,10 @@
 
 ## Ejercicio 2
 ### Busca por terminal la imagen de Docker hello-world.
+![CAP3](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio2_Docker/Imagen%20pegada.png)
 ### ¿Cuál de todas las imágenes es la oficial?
+![CAP2](https://github.com/Ismail-wq2/Docker/blob/main/drive-download-20261123T135658Z-1-001/Ejercicio2_Docker/Imagen%20pegada%20(2).png)
+
 ### Haz lo mismo, pero en DockerHub. Marca a la izquierda la casilla Docker Official Image y comprueba que coincide con tu elección del punto anterior.
 ### Descarga y ejecuta la imagen elegida en tu ordenador.
 ### Haz lo mismo con la imagen hello-seattle.
